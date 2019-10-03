@@ -5,7 +5,15 @@ var destructivelyAppendKitten = function (name){
   
 }
 
-//var destructivelyPrependKitten =
-//var destructivelyRemoveLastKitten
-//var destructivelyRemoveFirstKitten
+var destructivelyPrependKitten = function (name){
+  
+}
+
+var destructivelyRemoveLastKitten = function (name){
+  
+}
+
+var destructivelyRemoveFirstKitten = function (name) {
+  
+}
 //var
