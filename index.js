@@ -26,17 +26,17 @@ var destructivelyRemoveFirstKitten = function (name) {
 }
 
 var appendKitten = function (name){
-  
+
 }
 
 var prependKitten = function (name){
-  
+
 }
 
 var removeLastKitten = function (name){
-  
+
 }
 
 var removeFirstKitten = function (name){
-  
+
 }
